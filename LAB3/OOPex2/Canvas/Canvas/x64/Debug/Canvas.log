@@ -1,0 +1,27 @@
+﻿  Canvas.cpp
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\Canvas.cpp(16,9): error C2511: 'Canvas::Canvas(void)': overloaded member function not found in 'Canvas'
+  C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\Canvas.h(4,7):
+  see declaration of 'Canvas'
+  
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\Canvas.cpp(18,25): error C2597: illegal reference to non-static member 'Canvas::height'
+  C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\Canvas.cpp(18,25):
+  see declaration of 'Canvas::height'
+  
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\Canvas.cpp(18,25): error C3867: 'Canvas::height': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\Canvas.cpp(18,25): error C2568: '<': unable to resolve function overload
+  main.cpp
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\Canvas.cpp(19,18): error C2597: illegal reference to non-static member 'Canvas::matrix'
+  C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\Canvas.cpp(19,18):
+  see declaration of 'Canvas::matrix'
+  
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\Canvas.cpp(19,18): error C3867: 'Canvas::matrix': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\Canvas.cpp(19,18): error C2568: '[': unable to resolve function overload
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\Canvas.cpp(21,5): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\main.cpp(8,5): error C3861: 'DrawRect': identifier not found
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\main.cpp(9,5): error C3861: 'FillRect': identifier not found
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\main.cpp(10,5): error C3861: 'DrawLine': identifier not found
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\main.cpp(11,5): error C3861: 'DrawCircle': identifier not found
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\main.cpp(12,5): error C3861: 'FillCircle': identifier not found
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\main.cpp(15,5): error C3861: 'Print': identifier not found
+C:\Users\Mares\source\repos\LAB3\OOPex2\Canvas\Canvas\main.cpp(18,5): error C3861: 'Clear': identifier not found
+  Generating Code...
